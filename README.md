@@ -5,5 +5,5 @@ Creating event handlers for the user to be able to interact.
 
 The HTML and CSS-files were pre written and not allowed to change.
 
-*Created fall 2018* 
+*Created fall 2018*  
 http://mimmimi.com/javascript/projekt
